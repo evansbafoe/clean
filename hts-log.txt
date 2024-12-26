@@ -1,0 +1,32 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 26 Dec 2024 10:15:52 at https://richwaycleaning.online/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://richwaycleaning.online/ -O1 "C:\c\c" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:18:05	Error: 	"Not Found" (404) at link https://richwaycleaning.online/gallery.html (from https://richwaycleaning.online/)
+10:18:05	Error: 	"Not Found" (404) at link https://richwaycleaning.online/img/b05.html (from https://richwaycleaning.online/)
+10:18:05	Error: 	"Not Found" (404) at link https://richwaycleaning.online/img/a22.html (from https://richwaycleaning.online/)
+10:18:05	Error: 	"Not Found" (404) at link https://richwaycleaning.online/img/loading.html (from https://richwaycleaning.online/)
+10:18:05	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://richwaycleaning.online/img/f.png (from https://richwaycleaning.online/)
+10:18:05	Error: 	"Not Found" (404) at link https://richwaycleaning.online/Clients-served.html (from https://richwaycleaning.online/)
+10:18:08	Error: 	"Not Found" (404) at link https://richwaycleaning.online/img/youtube-btn.html (from https://richwaycleaning.online/css/main.css)
+10:18:08	Error: 	"Not Found" (404) at link https://richwaycleaning.online/img/youtube-btn-hover.html (from https://richwaycleaning.online/css/main.css)
+10:18:08	Error: 	"Not Found" (404) at link https://richwaycleaning.online/images/aside_bg.html (from https://richwaycleaning.online/css/main.css)
+10:18:08	Error: 	"Not Found" (404) at link https://richwaycleaning.online/images/background_section.html (from https://richwaycleaning.online/css/main.css)
+10:18:08	Error: 	"Not Found" (404) at link https://richwaycleaning.online/img/preloader.html (from https://richwaycleaning.online/css/main.css)
+10:18:08	Error: 	"Not Found" (404) at link https://richwaycleaning.online/images/status-post-bg.html (from https://richwaycleaning.online/css/main.css)
+10:18:08	Error: 	"Not Found" (404) at link https://richwaycleaning.online/images/quote-post-bg.html (from https://richwaycleaning.online/css/main.css)
+10:18:09	Error: 	"Not Found" (404) at link https://richwaycleaning.online/blog-single-right.html (from https://richwaycleaning.online/ourvalue.html)
+10:18:09	Error: 	"Not Found" (404) at link https://richwaycleaning.online/images/slide01_1.html (from https://richwaycleaning.online/services.html)
+10:18:09	Error: 	"Not Found" (404) at link https://richwaycleaning.online/index-2.html (from https://richwaycleaning.online/news.html)
+10:18:10	Error: 	"Not Found" (404) at link https://richwaycleaning.online/Popover requires tooltip.js (from https://richwaycleaning.online/js/compressed.js)
+10:18:10	Error: 	"Not Found" (404) at link https://richwaycleaning.online/youtu.be/ (from https://richwaycleaning.online/js/compressed.js)
+10:18:10	Error: 	"Not Found" (404) at link https://richwaycleaning.online/contact-form.php (from https://richwaycleaning.online/js/main.js)
+10:18:10	Error: 	"Not Found" (404) at link https://richwaycleaning.online/search.php (from https://richwaycleaning.online/js/main.js)
+10:18:10	Error: 	"Not Found" (404) at link https://richwaycleaning.online/images/logo.png (from https://richwaycleaning.online/blog2.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 18 seconds : 143 links scanned, 121 files written (25498225 bytes overall) [23517745 bytes received at 170418 bytes/sec], 3471610 bytes transferred using HTTP compression in 62 files, ratio 39%, 5.6 requests per connection
+(20 errors, 1 warnings, 0 messages)
